@@ -1,6 +1,7 @@
 <?php
 require_once 'controllers/BaseController.php';
 require_once 'services/AuthService.php';
+require_once 'models/UsersModel.php';
 
 class AuthController extends BaseController
 {
